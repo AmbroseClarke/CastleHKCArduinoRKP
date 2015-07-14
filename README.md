@@ -4,6 +4,8 @@ CastleHKCArduinoRKP
 A HKC SecureWatch Alarm compatible Remote Keypad that makes Alarm functions
 accessible via any desktop or modern mobile phone browser.
 
+![alt tag](https://github.com/AmbroseClarke/CastleHKCArduinoRKP/blob/master/Docs/ArduinoAritechInternetKeypadLoop.gif)
+
 Currently working. More features being added.
 
 
@@ -27,8 +29,6 @@ Tested on Uno and Leonardo.
 Note: UNO runs fine - but only Leonardo can Debug Log to Console.
 
 The status of this project is being blogged at 
-
-![alt tag](https://github.com/AmbroseClarke/CastleHKCArduinoRKP/blob/master/Docs/ArduinoAritechInternetKeypadLoop.gif)
 
 
 June 2015
