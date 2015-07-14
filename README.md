@@ -28,4 +28,7 @@ Note: UNO runs fine - but only Leonardo can Debug Log to Console.
 
 The status of this project is being blogged at 
 
+![alt tag](https://github.com/AmbroseClarke/CastleHKCArduinoRKP/blob/master/Docs/ArduinoAritechInternetKeypadLoop.gif)
+
+
 June 2015
